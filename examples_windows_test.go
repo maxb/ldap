@@ -6,7 +6,7 @@ package ldap
 import (
 	"log"
 
-	"github.com/maxb/ldap/gssapi"
+	"github.com/maxb/ldap/v3/gssapi"
 )
 
 // This example demonstrates passwordless bind using the current process' user

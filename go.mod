@@ -1,4 +1,4 @@
-module github.com/maxb/ldap
+module github.com/maxb/ldap/v3
 
 go 1.14
 
